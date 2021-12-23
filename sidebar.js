@@ -19,7 +19,7 @@ async function getWidget() {
   if (typeof text === 'string') {
     // hide tip and show text in sidebar
     tipElement.style.opacity = '0'
-    widgetTextElement.value = text
+    widgetTextElement.value = "This is the widgetTextElement"
   } else {
     // show tip and clear text in sidebar
     tipElement.style.opacity = '1'
