@@ -5,7 +5,7 @@ miro.onReady(() => {
   miro.initialize({
     extensionPoints: {
       bottomBar: {
-        title: 'Looking Glass Testinggggg',
+        title: 'Looking Glass Testingggtrewq',
         svgIcon: icon,
         positionPriority: 1,
         onClick: () => {
